@@ -1,6 +1,6 @@
 # olx-avg-price
 
-a module to webscrape average product prize from https://www.olx.ba/ online webshop
+a script to webscrape average product prize from https://www.olx.ba/ online webshop to show 
 
 # usage
 
@@ -13,3 +13,5 @@ or
 ```
 py -m pip install requirements.txt
 ```
+
+dunno if its against the sites tos, do w/e u want with this
